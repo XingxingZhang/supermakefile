@@ -1,2 +1,2 @@
 # supermakefile
-you can use this make file to compile most c++ projects
+you can use this makefile to compile most c++ projects
